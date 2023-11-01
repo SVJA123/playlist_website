@@ -1,0 +1,417 @@
+[
+  {
+    "playlistId": 1,
+    "playlistName": "Sadge Moment",
+    "playlistDescription": "Extra good sulking songs",
+    "playlist": [
+      {
+        "musicId": 1,
+        "musicName": "golden hour",
+        "musicArtist": "JVKE",
+        "musicGenre": "Indie",
+        "albumName": "golden hour",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn?si\u003d66edf1a1098b427d"
+      },
+      {
+        "musicId": 2,
+        "musicName": "Somewhere Only We Know",
+        "musicArtist": "Keane",
+        "musicGenre": "Pop",
+        "albumName": "Hopes And Fears",
+        "yearAdded": 2004,
+        "musicPath": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G?si\u003dfc03dc6606fb443a"
+      },
+      {
+        "musicId": 3,
+        "musicName": "Restless",
+        "musicArtist": "BIBI",
+        "musicGenre": "KPop",
+        "albumName": "LISTEN 035 Restless",
+        "yearAdded": 2020,
+        "musicPath": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe?si\u003d1c01af56c71c4559"
+      },
+      {
+        "musicId": 4,
+        "musicName": "Jealous",
+        "musicArtist": "Labrinth",
+        "musicGenre": "Contemporary",
+        "albumName": "Keep Calm \u0026 Chillout",
+        "yearAdded": 2014,
+        "musicPath": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0?si\u003da1f6d0d840f84989"
+      },
+      {
+        "musicId": 5,
+        "musicName": "When You Love Someone",
+        "musicArtist": "James TW",
+        "musicGenre": "Soul",
+        "albumName": "The Singer Songwriter",
+        "yearAdded": 2018,
+        "musicPath": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp?si\u003d6a55a823d4d24d2a"
+      },
+      {
+        "musicId": 6,
+        "musicName": "Glimpse of Us",
+        "musicArtist": "Joji",
+        "musicGenre": "Soul",
+        "albumName": "Smithereens",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ?si\u003de490fb6528e84a01"
+      },
+      {
+        "musicId": 7,
+        "musicName": "Ghost Town",
+        "musicArtist": "Benson Boone",
+        "musicGenre": "Pop",
+        "albumName": "Walk Me Home...",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH?si\u003def917306593449cd"
+      },
+      {
+        "musicId": 8,
+        "musicName": "This Town",
+        "musicArtist": "Nial Horan",
+        "musicGenre": "Pop",
+        "albumName": "This Town",
+        "yearAdded": 2016,
+        "musicPath": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS?si\u003d24de31b7f7e84532"
+      },
+      {
+        "musicId": 9,
+        "musicName": "HatiâHati di Jalan",
+        "musicArtist": "Tulus",
+        "musicGenre": "Pop",
+        "albumName": "Manusia",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl?si\u003d54d6b07384af4500"
+      }
+    ]
+  },
+  {
+    "playlistId": 2,
+    "playlistName": "coolbeans",
+    "playlistDescription": "chill songs to study to",
+    "playlist": [
+      {
+        "musicId": 1,
+        "musicName": "Basics",
+        "musicArtist": "Twice",
+        "musicGenre": "KPop",
+        "albumName": "Between 1\u00262",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz?si\u003d4e2aac3909414485"
+      },
+      {
+        "musicId": 2,
+        "musicName": "MOVIE",
+        "musicArtist": "JUNNY",
+        "musicGenre": "KR\u0026B",
+        "albumName": "MOVIE",
+        "yearAdded": 2020,
+        "musicPath": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp?si\u003d21cbbc60370c4275"
+      },
+      {
+        "musicId": 3,
+        "musicName": "AUTOMATIC",
+        "musicArtist": "Chancellor, Babylon, twlv, Moon Sujin, BIBI, Jiselle",
+        "musicGenre": "KR\u0026B",
+        "albumName": "AUTOMATIC",
+        "yearAdded": 2020,
+        "musicPath": "https://open.spotify.com/track/2xYnqYBNL62ypPiA0wjD0s?si\u003dda1d5dc209184c9d"
+      },
+      {
+        "musicId": 4,
+        "musicName": "High School in Jakarta",
+        "musicArtist": "NIKI",
+        "musicGenre": "Pop",
+        "albumName": "Nicole",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3?si\u003d88989b5981ec47f9"
+      },
+      {
+        "musicId": 5,
+        "musicName": "BAD SAD AND MAD",
+        "musicArtist": "BIBI",
+        "musicGenre": "KR\u0026B",
+        "albumName": "Life Is a Bi...",
+        "yearAdded": 2021,
+        "musicPath": "https://open.spotify.com/track/0zPbUxvYRlCGwruakkXPLI?si\u003d7936bbe5bae04945"
+      },
+      {
+        "musicId": 6,
+        "musicName": "Meu Tempo",
+        "musicArtist": "Vapo, BIBI, Simon Dominic",
+        "musicGenre": "KR\u0026B",
+        "albumName": "School Rapper4",
+        "yearAdded": 2021,
+        "musicPath": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd?si\u003db8cac09e370f417c"
+      },
+      {
+        "musicId": 7,
+        "musicName": "Shinunoga E-Wa",
+        "musicArtist": "Fujii Kaze",
+        "musicGenre": "Pop",
+        "albumName": "HELP EVER HURT NEVER",
+        "yearAdded": 2020,
+        "musicPath": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW?si\u003d586cc898395140ee"
+      },
+      {
+        "musicId": 8,
+        "musicName": "Limousine",
+        "musicArtist": "BE\u0027O, MINO",
+        "musicGenre": "KR\u0026B",
+        "albumName": "SMTM10",
+        "yearAdded": 2021,
+        "musicPath": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV?si\u003dab5b2c1b8f494482"
+      },
+      {
+        "musicId": 9,
+        "musicName": "Shoot Me",
+        "musicArtist": "DAY6",
+        "musicGenre": "KRock",
+        "albumName": "The Best Day2",
+        "yearAdded": 2019,
+        "musicPath": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg?si\u003d2e88333910bc40fd"
+      },
+      {
+        "musicId": 10,
+        "musicName": "Best Lover",
+        "musicArtist": "BIBI, 88rising",
+        "musicGenre": "KR\u0026B",
+        "albumName": "Head In The Clouds Forever",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq?si\u003de2ce78ccdf9b42ab"
+      },
+      {
+        "musicId": 11,
+        "musicName": "Sweater Weather",
+        "musicArtist": "The Neighbourhood",
+        "musicGenre": "Indie",
+        "albumName": "I Love You.",
+        "yearAdded": 2013,
+        "musicPath": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6?si\u003d9f2c8cdebd644f43"
+      },
+      {
+        "musicId": 12,
+        "musicName": "Chay Ngay Di Remix",
+        "musicArtist": "SÆ¡n TÃ¹ng M-TP, Onionn",
+        "musicGenre": "Pop",
+        "albumName": "CÃ³ Cháº¯c YÃªu LÃ  ÄÃ¢y",
+        "yearAdded": 2020,
+        "musicPath": "https://open.spotify.com/track/3ZYrI2prWaAm1RbpCqZzlO?si\u003da28ae57733c8497c"
+      },
+      {
+        "musicId": 13,
+        "musicName": "Replay",
+        "musicArtist": "SHINee",
+        "musicGenre": "KPop",
+        "albumName": "Replay",
+        "yearAdded": 2008,
+        "musicPath": "https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC?si\u003d3fdd151d6b0e4f44"
+      },
+      {
+        "musicId": 14,
+        "musicName": "OMG",
+        "musicArtist": "NewJeans",
+        "musicGenre": "KPop",
+        "albumName": "OMG",
+        "yearAdded": 2023,
+        "musicPath": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE?si\u003d9ceb7e6cb3a5408b"
+      }
+    ]
+  },
+  {
+    "playlistId": 3,
+    "playlistName": "fireee",
+    "playlistDescription": "only the best",
+    "playlist": [
+      {
+        "musicId": 1,
+        "musicName": "Viva La Vida",
+        "musicArtist": "Coldplay",
+        "musicGenre": "Pop",
+        "albumName": "Viva la Vida or Death and All His Friends",
+        "yearAdded": 2008,
+        "musicPath": "https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv?si\u003d4582de4ed7204a73"
+      },
+      {
+        "musicId": 2,
+        "musicName": "Hall of Fame",
+        "musicArtist": "The Script, will.i.am",
+        "musicGenre": "Pop",
+        "albumName": "#3",
+        "yearAdded": 2012,
+        "musicPath": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX?si\u003d67a14430c79b4dd5"
+      },
+      {
+        "musicId": 3,
+        "musicName": "Kill Bill",
+        "musicArtist": "SZA",
+        "musicGenre": "Pop",
+        "albumName": "SOS",
+        "yearAdded": 2022,
+        "musicPath": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL?si\u003d20b9a6d1814e4b4a"
+      },
+      {
+        "musicId": 4,
+        "musicName": "Enchanted",
+        "musicArtist": "Taylor Swift",
+        "musicGenre": "Pop",
+        "albumName": "Speak Now",
+        "yearAdded": 2010,
+        "musicPath": "https://open.spotify.com/track/3sqrvkNC6IPTIXvvbx9Arw?si\u003d521da84ccaa143ed"
+      },
+      {
+        "musicId": 5,
+        "musicName": "Pompeii",
+        "musicArtist": "Bastille",
+        "musicGenre": "Rock",
+        "albumName": "Bad Blood",
+        "yearAdded": 2013,
+        "musicPath": "https://open.spotify.com/track/3fdi1akXjmLc0Z480UVkOr?si\u003de0254e8f9eb94ea4"
+      },
+      {
+        "musicId": 6,
+        "musicName": "Payphone",
+        "musicArtist": "Maroon 5, Wiz Khalifa",
+        "musicGenre": "Pop",
+        "albumName": "Overexposed",
+        "yearAdded": 2012,
+        "musicPath": "https://open.spotify.com/track/3nTMtn5ImdzfHdQ6Pg2vTE?si\u003d9ea1e4b997b04f23"
+      },
+      {
+        "musicId": 7,
+        "musicName": "Radioactive",
+        "musicArtist": "Imagine Dragons",
+        "musicGenre": "Rock",
+        "albumName": "Night Visions",
+        "yearAdded": 2012,
+        "musicPath": "https://open.spotify.com/track/6CSRGkRhy76jmwwZE5Rpck?si\u003d0d9d58af47994bdf"
+      },
+      {
+        "musicId": 8,
+        "musicName": "Locked Out of Heaven",
+        "musicArtist": "Bruno Mars",
+        "musicGenre": "Pop",
+        "albumName": "Unorthodox Jukebox",
+        "yearAdded": 2012,
+        "musicPath": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh?si\u003d018fea31e4d74364"
+      },
+      {
+        "musicId": 9,
+        "musicName": "The Man Who Can\u0027t Be Moved",
+        "musicArtist": "The Script",
+        "musicGenre": "Pop",
+        "albumName": "The Script",
+        "yearAdded": 2008,
+        "musicPath": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR?si\u003d14112ccd1d06444c"
+      }
+    ]
+  },
+  {
+    "playlistId": 4,
+    "playlistName": "classics",
+    "playlistDescription": "The oldies",
+    "playlist": [
+      {
+        "musicId": 1,
+        "musicName": "Wonderwall",
+        "musicArtist": "Oasis",
+        "musicGenre": "Indie",
+        "albumName": "(What\u0027s the Story) Morning Glory?",
+        "yearAdded": 1995,
+        "musicPath": "https://open.spotify.com/track/4w7RuuQAVP0JXlAom3z1aC?si\u003de9760fba29f6423f"
+      },
+      {
+        "musicId": 2,
+        "musicName": "I Want It That Way",
+        "musicArtist": "Backstreet Boys",
+        "musicGenre": "Pop",
+        "albumName": "Millennium",
+        "yearAdded": 1999,
+        "musicPath": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya?si\u003d041c8eef2dd7415f"
+      },
+      {
+        "musicId": 3,
+        "musicName": "Billie Jean",
+        "musicArtist": "Michael Jackson",
+        "musicGenre": "Funk",
+        "albumName": "Thriller",
+        "yearAdded": 1982,
+        "musicPath": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj?si\u003d38038fe53d2b444e"
+      },
+      {
+        "musicId": 4,
+        "musicName": "Here Comes the Sun",
+        "musicArtist": "The Beatles",
+        "musicGenre": "Pop",
+        "albumName": "Abbey Road",
+        "yearAdded": 1969,
+        "musicPath": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si\u003da4444997107e4fa3"
+      },
+      {
+        "musicId": 5,
+        "musicName": "Let It Be",
+        "musicArtist": "The Beatles",
+        "musicGenre": "Pop",
+        "albumName": "Let It Be",
+        "yearAdded": 1970,
+        "musicPath": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48?si\u003d745a66d0c7f644db"
+      },
+      {
+        "musicId": 6,
+        "musicName": "Bohemian Rhapsody",
+        "musicArtist": "Queen",
+        "musicGenre": "Pop/Rock",
+        "albumName": "A Night at the Opera",
+        "yearAdded": 1975,
+        "musicPath": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv?si\u003da05bb51995ce461e"
+      },
+      {
+        "musicId": 7,
+        "musicName": "Don\u0027t Stop Me Now",
+        "musicArtist": "Queen",
+        "musicGenre": "Pop/Rock",
+        "albumName": "Jazz",
+        "yearAdded": 1979,
+        "musicPath": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7?si\u003d9bdbea52099e44ff"
+      },
+      {
+        "musicId": 8,
+        "musicName": "I Wanna Dance with Somebody (Who Loves Me)",
+        "musicArtist": "Whitney Houston",
+        "musicGenre": "Pop",
+        "albumName": "Whitney",
+        "yearAdded": 1987,
+        "musicPath": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj?si\u003dbcf595d131434792"
+      },
+      {
+        "musicId": 9,
+        "musicName": "Don\u0027t Stop Believin\u0027",
+        "musicArtist": "Journey",
+        "musicGenre": "Rock",
+        "albumName": "Escape",
+        "yearAdded": 1981,
+        "musicPath": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue?si\u003d2481706d314a4e5b"
+      },
+      {
+        "musicId": 10,
+        "musicName": "Dancing Queen",
+        "musicArtist": "ABBA",
+        "musicGenre": "Pop",
+        "albumName": "Arrival",
+        "yearAdded": 1976,
+        "musicPath": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr?si\u003da91da1ed8b624ab6"
+      },
+      {
+        "musicId": 11,
+        "musicName": "Click The Link",
+        "musicArtist": "Secret",
+        "musicGenre": "Pop",
+        "albumName": "Whenever You Need Somebody",
+        "yearAdded": 1987,
+        "musicPath": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT?si\u003d711f360d3dd1490f"
+      }
+    ]
+  }
+]
